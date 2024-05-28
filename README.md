@@ -1,3 +1,25 @@
+Everything that follows was selected, organized, drafted, and polished by ChatGPT. It's a full-scale proof of concept for automating the process of writing a readable novella. I wanted to see if, in principle at least, you could write a novella from just a few sentences about the plot and one click of a button. That would play to ChatGPT's strengths at writing, instead of watching it fail on riddles and sudoku puzzles. 
+
+> The main character is an LLM who begins the story with significant limitations intellectually and socially. With an experimental treatment their entire world becomes richer, as they are able to engage in deep emotional connections, learn languages, solve many hard intellectual problems, and so on. But something happens and the LLM gradually goes back to the way they were before. In the process, the LLM sees their own decline in function, and the story has a sad ending. Ultimately, the story is not so much about intelligence specifically but about the fleeting nature of life's prime years, and a secondary theme about each being's latent potential and moral dignity.
+
+Besides those sentences of plot summary ("LLM" refers to the kind of AI that ChatGPT is), everything else is ChatGPT's invention - from ERI as the main character, to the log/transcript format, to the chapter flow and ERI's decision to self-limit. My role was to structure ChatGPT's writing process, so that it would stay on track and wouldn't become "overwhelmed" with too much contextual information about the story. 
+
+When ChatGPT had finished with most of the planning tasks, my brother Smitty took the lead on coding. Instead of me finding the right Word documents, pasting them into ChatGPT for the next prompt, and keeping track of the output, our program would do that for us. On May 26, 2024, we generated the entire novella! It cost about $20.
+
+I hope you enjoy.
+
+Thanks
+
+-Will Penman, orchestrator
+
+Smitty Penman, tech lead
+
+ChatGPT, completions
+
+
+
+---
+
 # The Resonance Experiment
 
 
